@@ -1,11 +1,13 @@
-[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://raushankumar82.netlify.app/)
+
+
+    [![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://raushankumar82.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <h3 align="center">Hi, I'm Raushan Kumar, a passionate self-taught Programmer and Developer 💻 from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdewalamail&label=Profile%20views&color=0e75b6&style=flat" alt="sdewalamail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdewalamail" alt="raushan8292" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdewalamail" alt="sdewalamail" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imroshanchauhan" target="blank"><img src="https://img.shields.io/twitter/follow/imroshanchauhan?logo=twitter&style=for-the-badge" alt="imroshanchauhan" /></a> </p>
 
@@ -13,7 +15,7 @@
 
 - 🌱 I’m currently learning **Some thing cool**
 
-- 👨‍💻 All of my projects are available at [https://github.com/raushan8292](https://github.com/raushan8292)
+- 👨‍💻 All of my projects are available at [https://github.com/sdewalamail](https://github.com/sdewalamail)
 
 - 📝 I regularly write articles on [https://raushankumar82.netlify.app/](https://raushankumar82.netlify.app/)
 

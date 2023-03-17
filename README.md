@@ -1,7 +1,4 @@
-
-
-    [![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://raushankumar82.netlify.app/)
-
+[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://raushankumar82.netlify.app/)
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
 <h3 align="center">Hi, I'm Raushan Kumar, a passionate self-taught Programmer and Developer 💻 from India.</h3>
 

@@ -1,6 +1,6 @@
 [![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://raushankumar82.netlify.app/)
-<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
-<h3 align="center">Hi, I'm Raushan Kumar, a passionate self-taught Programmer and Developer 💻 from India.</h3>
+<h1 align="center">Hi 👋,Greetings Raushan Kumar!</h1>
+<h3 align="center">I am Raushan Kumar, an accomplished self-taught Programmer and Backend Developer 💻 hailing from India. Presently, I am engrossed in a fascinating project showcased on my Github account while simultaneously enriching my skills with knowledge on some of the latest advancements in backend developmen <br> I believe in continuously learning and growing, and as such, I am dedicatedly expanding my skillset. My projects, spanning across various domains, are also available for your perusal on my Github account. <br> Apart from my work, I also have a penchant for writing and regularly compose articles on the latest trends and happenings in the tech industry. You can read them on my personal blog. <br> If you need assistance with Backend Development, feel free to reach out to me. I would be more than happy to share my knowledge and experience with you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdewalamail&label=Profile%20views&color=0e75b6&style=flat" alt="sdewalamail" /> </p>
 
@@ -16,9 +16,9 @@
 
 - 📝 I regularly write articles on [https://raushankumar82.netlify.app/](https://raushankumar82.netlify.app/)
 
-- 💬 Ask me about **JAVA, Android Developement And Forntend Web Devlopment**
+- 💬 Ask me about **Backend Development(NodeJs)**
 
-- 📫 How to reach me **sdewalamail@gmail.com**
+- 📫 You can contact me at **sdewalamail@gmail.com**, and for a comprehensive understanding of my work experience and achievements, please visit my website.
 
 - 📄 Know about my experiences [https://raushankumar82.netlify.app/](https://raushankumar82.netlify.app/)
 
